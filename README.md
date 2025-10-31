@@ -8,6 +8,8 @@ The intention is to create something user-friendly that does not require knowled
 
 You will find an initial `UKHSA` class and some other exploratory bits in "starting_point.ipynb".
 
+The aim is to get this registered on [PyPI](https://pypi.org/), the official Python package registry. [This](https://packaging.python.org/en/latest/tutorials/packaging-projects/) is the guide they link to for creating a package.
+
 ## Notes
 
 Just jotting down some findings so far:
