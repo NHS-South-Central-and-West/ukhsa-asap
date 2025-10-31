@@ -5,6 +5,7 @@
 - Create actual .py file; decide which elements should go in `main.py` and which elements should be split out into modules.
 - Configure things such as the `setup.py` so that the package can be correctly installed and run as a package.
 - Exception handling, for example when there is a bad response or the call returns no data.
+- Create a test file, which will use the `pytest` package.
 - Include docstrings and inline comments.
 - Find out how to get a list of all the categories for the optional filters in a request e.g. "stratum" and "age".
 - Understand how the "age" filter works since it seems that there are set age bands, but there is also the possibility of using a custom age range.
